@@ -202,6 +202,7 @@ body {
 
     .ingreso2{
         padding: 3.7%;
+        font-size: 18px;
     }
 }
 
@@ -216,6 +217,26 @@ body {
         margin-top: -10%;
     }
     
+    .recuadrob{
+        width: 90%;
+        margin-left: 10%;
+        margin-top: 25%;
+       
+    }
+    .ingreso2{
+        padding: 1%;
+        width: 50%;
+        margin-top: 56%;
+        left: 18.5%;
+        height: 41px;
+    }
 
+    .ondac1{
+        position: absolute;
+         margin-top: 0%;
+         z-index: 0;
+        left: 5%;
+
+    }
 }
 
